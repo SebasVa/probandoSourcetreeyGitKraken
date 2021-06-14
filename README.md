@@ -2,4 +2,4 @@
 repositorio para probar herramientas visuales de control de versiones
 
 Sebastián Valencia
-frase: Deducción impositiva 
+frase: Deducción Impositiva 
